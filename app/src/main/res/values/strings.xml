@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Continuous Auth Collector</string>
+    <string name="uid_key">com.zaraklin.continousauthcollector.uid.key</string>
+    <string name="start_date_key">com.zaraklin.continousauthcollector.start_date.key</string>
+    <string name="end_data_key">com.zaraklin.continousauthcollector.end_date.key</string>
+    <string name="stylometry_text_key">com.zaraklin.continousauthcollector.stylometry_text.key</string>
+    <string name="last_stylometry_collection">com.zaraklin.continousauthcollector.last_stylometry_collection.key</string>
+    <string name="acknowledgements">Você esta participando da pesquisa acadêmica de Rafael dos Santos Alves. Obrigado!
+    </string>
+    <string name="hours_remaining">horas restantes.</string>
+    <string name="days_remaining">dias restantes.</string>
+    <string name="title_activity_stylometry_collector">StylometryCollectorActivity</string>
+    <string name="title_activity_main">activity_main</string>
+    <string name="write_text_above">Digite o texto acima</string>
+    <string name="ok">OK</string>
+    <string name="days_left">%1$02d</string>
+    <string name="hours_left">%1$02d:%2$02d:%3$02d</string>
+    <string name="end_collect">Sua participação foi concluída. Obrigado.</string>
+    <string name="welcome_first_access">Olá, seja bem-vindo a pesquisa\n do aluno de Segurança da Informação Rafael dos Santos Alves.\n Para iniciar, apenas informe sua idade e clique em concluir.</string>
+    <string name="age">Idade</string>
+    <string name="validateAgeMessage">É necessário informar sua idade para continuar.</string>
+    <string name="permissionMessage">Todas as permissões são necessárias para participar da pesquisa!</string>
+    <string name="conclude">Concluir</string>
+    <string-array name="txt_random">
+        <item>.tie5Roanl</item> <!-- A survey on touch dynamics authentication in mobile devices -->
+        <item>rhu.university</item> <!--  A survey on touch dynamics authentication in mobile devices -->
+    </string-array>
+</resources>

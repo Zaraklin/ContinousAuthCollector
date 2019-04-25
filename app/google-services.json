@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "398570735861",
+    "firebase_url": "https://continuousauthcollector.firebaseio.com",
+    "project_id": "continuousauthcollector",
+    "storage_bucket": "continuousauthcollector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398570735861:android:ce975a322116d33a",
+        "android_client_info": {
+          "package_name": "com.zaraklin.continuousauthcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398570735861-467gu5bjbss0r82ah69lgrv2sdgh9n4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaraklin.continuousauthcollector",
+            "certificate_hash": "38412e169b147b4259ef36ed3cdf98d3f3769ae9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cYSdaBqJcZsYOEd23D9LWLA5rjK6knI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398570735861-cf57317tiviq8g8dcm8vjorn6mf1eq51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
