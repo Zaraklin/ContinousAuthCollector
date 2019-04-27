@@ -25,16 +25,16 @@ Depois clique em configurações
 
 ![](readme_images/IMG_PLAY_PROTECT_CONFIG.jpg)
 
-E desmarque a opção "scanear dispositivo em busca de ameaças de segurança"
+E desmarque a opção "Verificar ameaças à segurança"
 
 ![](readme_images/IMG_DISABLE_PLAY_PROTECT.jpg)
 
 Após isso, é necessário habilitar a instalação de aplicativos de fontes desconhecidas.
-Para isso, acesse Configurações > Segurança e procure "Fontes desconhecidas". 
+Para isso, acesse Configurações > Segurança 
 
 ![](readme_images/IMG_SEGURANCA.jpg)
 
-Clique nesse item para habilita-lo.
+E procure "Fontes desconhecidas". Clique nesse item para habilita-lo.
 
 ![](readme_images/IMG_FONTES_DESC.jpg)
 
@@ -55,7 +55,7 @@ E habilite o acesso ao dados de utilização
 Parabéns, você esta participante da pesquisa!
 Deixo aqui o meu muito obrigado a todos que se disporem a participar.
 
-#Compartilhando dados de estilometria
+# Compartilhando dados de estilometria
 
 Para compartilhar os dados de estilometria, que serão compartilhados apenas quando digitar a palavra solicitada, apenas clique na notificação quando ela aparacer:
 
@@ -67,7 +67,7 @@ Digite o texto solicitado e clique em "OK"
 
 Pronto, você compartilhou as informações com sucesso.
 
-#Dúvidas
+# Dúvidas
 
 Qualquer dúvida ou sugestão, favor entrar em contato através do e-mail rf.santos.alves@gmail.com
 
