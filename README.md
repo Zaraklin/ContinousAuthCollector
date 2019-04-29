@@ -1,4 +1,4 @@
-# ContinousAuthCollector
+# ContinousAuthCollector - Todos os dados são coletados de forma anônima
 
 Olá, tudo certo?
 Se você chegou aqui, é porque está disposto a me ajudar em minha pesquisa.
@@ -53,6 +53,7 @@ E habilite o acesso ao dados de utilização
 ![](readme_images/IMG_DADOS_UTILIZACAO.jpg)
 
 Parabéns, você esta participante da pesquisa!
+**Neste ponto a opção de instalação de fontes desconhecidas já pode ser desabilitada.**  
 Deixo aqui o meu muito obrigado a todos que se disporem a participar.
 
 # Compartilhando dados de estilometria
